@@ -1,0 +1,55 @@
+[
+  {
+    "title": "ES6",
+    "description": "Arrow functions, spread-operators and decorators. All covered!",
+    "stars": 4
+  },
+
+  {
+    "title": "Redux",
+    "description": "Reducers, action creators, redux-thunk, all familiar to me.",
+    "stars": 4
+  },
+
+  {
+    "title": "GraphQL/Apollo",
+    "description": "Discovering Apollo/GraphQL, I am working on a project using these.",
+    "stars": 2.5
+  },
+
+  {
+    "title": "React.js",
+    "description": "I spent most of my time working on React. This is one of my specialties.",
+    "stars": 4
+  },
+
+  {
+    "title": "Ruby",
+    "description": "I have been writing ruby for quite a while now.",
+    "stars": 3.5
+  },
+
+  {
+    "title": "Ruby on Rails",
+    "description": "I like Ruby on Rails, but I prefer node ;)",
+    "stars": 3.5
+  },
+
+  {
+    "title": "HTML5 and CSS3",
+    "description": "Now trying to find a use for CSS-grid.",
+    "stars": 4
+  },
+
+  {
+    "title": "C#",
+    "description": "Not well-equipped quite yet, but I think its an interesting language to learn.",
+    "stars": 2
+  },
+
+  {
+    "title": "Swift 3.0",
+    "description": "Trying to code and script in Swift. But I lack the skills in iOS-development (autolayout to name one.)",
+    "stars": 2.5
+  }
+]
